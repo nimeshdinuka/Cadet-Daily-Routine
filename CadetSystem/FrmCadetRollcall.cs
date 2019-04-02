@@ -21,7 +21,7 @@ namespace CadetSystem
             cadet = ocadet;
             InitializeComponent();
         }
-//added to git
+
         private void pbclose_Click(object sender, EventArgs e)
         {
             Application.Exit();
